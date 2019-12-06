@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "878543450962",
+    "firebase_url": "https://bodu-bala-sena.firebaseio.com",
+    "project_id": "bodu-bala-sena",
+    "storage_bucket": "bodu-bala-sena.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878543450962:android:0403589b8a2f664d",
+        "android_client_info": {
+          "package_name": "com.gagnanasara.budubalasena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878543450962-gmkc3rpvinfl0nsjan9d9efmg311qjal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUTf_Sicy8jvu7wsuYHPbcAr4cDXYJtPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878543450962-gmkc3rpvinfl0nsjan9d9efmg311qjal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

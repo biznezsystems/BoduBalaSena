@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">BBS</string>
+    <string name="app_bar_name">Bodu Bala Sena - BBS</string>
+    <string name="title_home">Posts</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_contact_us">Contact BBS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_tab_one">Tab One</string>
+    <string name="fragment_tab_two">Tab Two</string>
+    <string name="fragment_tab_three">Tab Three</string>
+
+    <string name="quickstart_message">Click the SUBSCRIBE TO NEWS button below to subscribe to the
+        news topic. Messages sent to the weather topic will be received. The LOG TOKEN button logs the
+        InstanceID token to logcat.</string>
+    <string name="subscribe_to_weather">Subscribe To News</string>
+    <string name="log_token">Log Token</string>
+
+    <string name="msg_subscribed">Subscribed to News</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <!--
+        This is the name that users will see when interacting with this channel.
+        It should describe the category of notifications that will be sent through this channel
+     -->
+    <string name="default_notification_channel_name" translatable="true">News</string>
+    <string name="msg_subscribe_failed">Failed to subscribe to News</string>
+    <string name="fcm_message">Bodu Bala Sena</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="notification_count">NOTIFICATION_COUNT</string>
+
+    <string name="pref_key_date">PREF_KEY_DATE_</string>
+    <string name="pref_key_title">PREF_KEY_TITLE_</string>
+    <string name="pref_key_message">PREF_KEY_MESSAGE_</string>
+    <string name="clear_noifications">Clear Noifications</string>
+    <string name="about_bbs">About BBS</string>
+    <string name="call_us_whatsapp_viber_imo_94_76_688_0030_94_77_321_8677">Call Us: (whatsapp, Viber, Imo): +94 76 688 0030, +94 77 321 8677</string>
+    <string name="email_info_bodubalasena_org">email: info@bodubalasena.org</string>
+    <string name="address_no_615_nawala_rd_rajagiriya">Address: No 615, Nawala Rd,Rajagiriya.</string>
+    <string name="close">CLOSE</string>
+    <string name="attach_a_photo">[ Attach a Photo ]</string>
+    <string name="change_attached_photo">[ Change Attached Photo ]</string>
+
+</resources>
